@@ -1,0 +1,6 @@
+URL: https://www.mccd.edu, Server: cloudflare
+URL: https://www.google.com, Server: gws
+URL: https://www.mccd.edu, Server: cloudflare
+URL: https://www.google.com, Server: gws
+URL: https://www.mccd.edu, Server: cloudflare
+URL: https://www.google.com, Server: gws
